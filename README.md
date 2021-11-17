@@ -1,4 +1,4 @@
-<img align="left" src="assets/crow.png">
+<img align="left" src="assets/gopher.gif" height="175" width="350">
 
 ### Hi, there! I'm Alex <img alt="Hello" src="assets/hi.gif" width="25px">
 
