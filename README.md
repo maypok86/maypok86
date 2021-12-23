@@ -2,7 +2,7 @@
 
 ### Hi, there! I'm Alex <img alt="Hello" src="assets/hi.gif" width="25px">
 
-I'm student of CT ITMO and Golang backend developer.
+I'm a second year student of CT ITMO and Golang backend developer.
 
 <p>
 &nbsp; <a href="mailto:alex.mayshev.86@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/doodle/48/000000/gmail.png"/></a>
