@@ -37,7 +37,6 @@ func GetBio() Bio {
         "- 🎓 I'm studying":                  "Computer science, programming and mathematics",
         "- 👯 I’m looking to collaborate on": "Golang, Kotlin and Docker related projects",
         "- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
-        "- ✍️ My hobbies":                    "Watching filmes, playing chess and listening to music",
     }
 }
 ```
