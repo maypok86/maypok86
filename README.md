@@ -1,8 +1,8 @@
 <img align="left" src="assets/gopher.gif" height="175" width="350">
 
-### Hi, there! I'm Alex <img alt="Hello" src="assets/hi.gif" width="25px">
+<!--### Hi, there! I'm Alex <img alt="Hello" src="assets/hi.gif" width="25px"> -->
 
-I'm a second year student of CT ITMO and Golang developer.
+Hi, there! I'm Alex. I'm a second year student of CT ITMO and Golang developer.
 
 <p>
 &nbsp; <a href="mailto:alex.mayshev.86@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/doodle/48/000000/gmail.png"/></a>
@@ -44,7 +44,7 @@ func GetBio() Bio {
 <a href="https://github.com/maypok86"><img alt="Mayshev Alex's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=maypok86&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_icons=true&count_private=true&hide_border=true" height="192px"/></a>
 <a href="https://github.com/maypok86"><img alt="Mayshev Alex's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maypok86&hide=Gherkin,Makefile,Cmake,Dockerfile&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=151515&title_color=fff&icon_color=79ff97" height="192px"/></a>
 
-[![Alex's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=maypok86&theme=github)](https://git.io/praveenscience)
+<!---[![Alex's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=maypok86&theme=github)](https://git.io/praveenscience) -->
 
 -----
 Credits: [Mayshev Alexey](https://github.com/maypok86)
